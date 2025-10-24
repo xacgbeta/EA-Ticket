@@ -1,5 +1,5 @@
 ## Disclaimer  
-All underlying code and logic are the intellectual property of **@Anadius**.  
+All underlying code and logic are the intellectual property of **Anadius**.  
 
 ---
 ###  Usage Instructions  
